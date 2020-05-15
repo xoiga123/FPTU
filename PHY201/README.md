@@ -11,3 +11,5 @@
 ## Key:
 - Link: https://quizlet.com/vn/501089804/phy201-flash-cards/
 - Password: 123456a@
+- Link: https://quizlet.com/vn/501715392/chap37-phy201-flash-cards/
+- Password: cs1402

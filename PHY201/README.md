@@ -1,6 +1,6 @@
-*Modern physics*
+#Modern physics
 
-**Textbook**
+##Textbook:
 - Classical: 
   - Name: Halliday: Fundamentals of Physics Extended 9th-HQ
   - Link: https://docs.google.com/file/d/0B7gb0hh2qhqBX1g4RGR2MWROS0k/view
